@@ -1,4 +1,4 @@
-`ClickUp`: [[Feature #XXXX]: Description](https://app.clickup.com/t/XXXX)
+`Jira`: [[Feature #XXXX]: Description](https://app.clickup.com/t/XXXX)
 
 Relevant work involving this MR:
 * Commit message<Commit message> (Commit hash<Commit hash>)
